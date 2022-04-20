@@ -1,0 +1,654 @@
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000025.jpg 499,536,531,583,0 442,533,465,569,0 321,536,354,584,0 63,394,119,470,0 113,239,151,314,0 143,136,182,200,0 189,51,221,102,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000029.jpg 402,34,476,154,0 498,8,587,149,0 272,213,287,232,0 240,250,253,267,0 227,258,240,274,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000035.jpg 160,93,277,306,0 336,135,443,320,0 633,96,739,247,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000053.jpg 202,66,265,161,1 45,120,65,145,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000080.jpg 136,87,238,207,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000091.jpg 209,91,318,240,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000099.jpg 391,217,495,360,0 125,240,219,372,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000105.jpg 404,192,467,271,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000110.jpg 132,50,180,131,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000119.jpg 219,126,252,175,0 29,149,63,201,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000125.jpg 62,46,114,113,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000127.jpg 139,60,183,123,0 299,51,329,97,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000132.jpg 53,150,67,172,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000135.jpg 87,40,111,71,0 120,57,132,76,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000141.jpg 671,313,744,416,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000147.jpg 370,68,502,267,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000148.jpg 319,52,376,117,0 205,115,267,172,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000157.jpg 89,38,402,402,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000166.jpg 260,103,282,142,0 322,100,349,141,1 374,95,403,136,0 164,103,193,137,0 146,106,166,139,0 40,104,67,137,0 62,108,85,139,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000169.jpg 111,42,305,286,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000172.jpg 219,126,248,167,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000174.jpg 186,31,222,86,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000181.jpg 173,67,188,89,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000186.jpg 440,290,458,319,0 387,302,405,328,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000209.jpg 92,1,147,61,0 1,7,43,74,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000210.jpg 272,60,310,111,0 330,213,350,243,0 369,220,392,245,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000212.jpg 422,191,552,372,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000223.jpg 384,142,421,190,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000237.jpg 62,49,124,124,0 216,23,264,100,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000238.jpg 130,55,158,93,0 189,58,225,95,0 264,33,304,88,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000242.jpg 13,145,69,207,0 62,147,103,211,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000245.jpg 93,116,116,152,0 180,102,209,146,0 239,137,264,180,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000251.jpg 318,67,701,575,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000260.jpg 281,214,489,549,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000264.jpg 123,69,161,125,0 368,238,379,260,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000267.jpg 92,43,113,71,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000275.jpg 90,35,179,169,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000283.jpg 541,90,600,205,0 367,112,421,182,0 173,149,210,202,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000284.jpg 522,168,674,379,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000290.jpg 166,39,263,176,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000294.jpg 183,219,297,378,0 614,267,804,449,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000301.jpg 100,30,175,115,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000310.jpg 395,347,433,408,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000312.jpg 248,44,282,91,0 118,57,158,108,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000323.jpg 224,64,268,123,0 408,64,430,99,0 288,67,314,100,0 146,79,168,115,0 196,75,227,123,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000325.jpg 206,59,289,193,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000330.jpg 417,144,487,244,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000351.jpg 213,56,260,133,0 83,46,136,117,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000355.jpg 307,38,368,117,0 161,150,216,207,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000362.jpg 234,72,347,218,0 376,56,459,173,0 46,111,127,249,0 123,120,218,256,0 504,41,600,191,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000363.jpg 349,92,389,141,0 307,86,339,134,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000372.jpg 266,86,289,121,0 138,123,176,174,0 213,83,233,111,0 339,72,357,102,0 303,87,325,115,0 135,75,157,108,0 164,83,183,111,0 50,194,123,265,0 12,177,55,245,0 360,55,372,74,0 235,54,253,79,0 257,65,276,94,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000381.jpg 255,118,308,186,0 309,127,338,167,0 50,97,148,201,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000390.jpg 20,25,122,150,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000399.jpg 165,191,194,230,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000423.jpg 137,158,161,191,0 242,160,262,193,0 349,161,376,204,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000427.jpg 46,269,88,317,0 324,283,347,322,0 391,306,414,349,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000429.jpg 360,63,400,133,0 243,72,281,123,0 114,95,143,133,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000430.jpg 157,226,239,329,0 704,148,811,291,0 448,196,492,254,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000432.jpg 321,148,402,298,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000433.jpg 421,92,444,131,0 3,91,30,137,0 112,105,144,158,0 161,90,195,141,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000438.jpg 117,18,140,55,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000473.jpg 98,56,186,181,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000477.jpg 521,159,927,640,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000495.jpg 92,30,141,91,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000497.jpg 119,8,133,37,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000502.jpg 244,150,381,416,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000503.jpg 311,112,593,546,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000504.jpg 198,142,390,366,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000505.jpg 322,97,414,223,0 72,125,145,222,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000514.jpg 323,40,420,162,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000515.jpg 218,53,322,190,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000518.jpg 141,103,188,176,0 276,11,389,120,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000537.jpg 958,181,1036,279,0 779,276,848,379,0 583,276,642,371,0 461,226,520,326,0 286,268,357,364,0 158,212,236,320,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000538.jpg 442,15,523,117,0 752,11,811,114,0 541,3,591,70,0 588,1,635,57,0 816,6,877,75,0 68,21,160,121,0 170,23,236,112,1 286,52,382,161,1 670,43,755,150,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000541.jpg 471,110,506,163,0 609,128,652,187,0 178,204,232,277,0 76,221,137,290,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000551.jpg 359,276,432,391,0 224,297,278,363,0 143,285,184,336,0 144,209,170,250,0 191,209,227,261,0 423,191,465,254,0 461,187,519,263,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000552.jpg 291,178,329,237,0 180,206,202,234,0 384,207,404,235,0 486,207,502,229,0 233,205,249,227,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000561.jpg 124,118,171,192,0 232,97,277,176,0 328,132,386,210,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000564.jpg 208,84,240,128,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000572.jpg 156,100,308,326,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000580.jpg 152,136,262,257,0 351,173,417,268,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000584.jpg 439,238,576,492,0 495,673,684,909,0 107,511,187,617,0 999,609,1062,688,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000587.jpg 222,198,584,656,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000589.jpg 172,154,227,235,0 281,122,325,194,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000602.jpg 437,199,527,332,0 282,184,371,332,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000613.jpg 37,56,61,102,0 94,78,116,118,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000617.jpg 87,75,242,279,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000621.jpg 96,136,118,167,0 141,150,157,180,0 202,140,219,169,0 231,153,250,180,0 262,145,282,176,0 309,140,332,174,0 352,132,374,161,0 164,137,185,168,0 229,125,249,151,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000625.jpg 483,88,552,194,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000627.jpg 93,28,172,151,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000649.jpg 359,160,592,457,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000652.jpg 165,180,370,552,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000656.jpg 37,128,143,263,0 306,163,389,293,0 376,124,470,263,0 545,143,639,254,0 721,147,806,271,0 898,167,974,287,0 1119,191,1180,282,0 1269,167,1321,269,0 1358,184,1419,289,0 1506,176,1565,269,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000657.jpg 174,19,363,257,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000666.jpg 1071,1400,1210,1600,0 1266,1450,1405,1656,0 1493,1450,1632,1650,0 1866,1434,2021,1611,0 2010,1450,2132,1600,0 2227,1517,2393,1700,0 2577,1489,2732,1684,0 2827,1473,2971,1661,0 3171,1523,3310,1695,0 3405,1595,3543,1761,0 3577,1600,3716,1767,0 3799,1595,3932,1761,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000679.jpg 164,82,215,152,0 66,26,136,109,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000682.jpg 78,76,107,127,0 171,71,214,129,0 258,67,303,133,0 428,42,478,119,0 239,87,256,118,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000690.jpg 2,85,106,221,0 113,77,192,209,0 213,111,257,194,0 271,87,315,155,0 385,116,422,167,0 507,76,555,146,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000699.jpg 331,152,458,329,0 630,20,795,286,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000713.jpg 421,192,496,302,0 559,189,588,242,0 359,185,404,259,0 326,159,359,208,0 190,187,227,246,0 275,156,295,185,0 301,160,322,190,0 394,157,411,184,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000747.jpg 134,215,200,293,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000755.jpg 121,47,209,156,0 223,139,320,296,0 315,70,381,173,0 424,88,484,181,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000775.jpg 161,90,328,332,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000779.jpg 125,97,219,205,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000788.jpg 182,110,464,540,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000806.jpg 25,160,58,192,0 118,174,149,209,0 154,158,181,193,0 203,156,231,190,0 266,155,298,195,0 332,167,357,197,0 411,180,434,206,0 464,170,487,200,0 500,180,523,205,0 549,177,574,200,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000807.jpg 100,90,114,107,0 169,93,180,110,0 244,108,261,128,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000808.jpg 107,32,171,100,0 259,53,314,100,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000826.jpg 197,56,345,198,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000842.jpg 475,215,514,261,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000850.jpg 249,141,268,161,0 340,133,360,154,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000860.jpg 58,96,176,234,0 360,101,474,238,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000864.jpg 241,222,491,451,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000867.jpg 201,204,293,283,0 460,125,561,234,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000868.jpg 162,38,210,77,0 165,91,219,139,0 318,61,376,119,0 459,47,521,98,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000870.jpg 62,155,145,241,0 265,48,329,121,0 328,67,407,173,0 364,174,452,262,0 481,178,550,269,0 498,101,550,176,0 521,20,550,87,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000871.jpg 347,1138,1562,2363,0 1152,203,2032,1013,0 2552,23,3407,768,0 3317,123,4282,1283,0 3787,1413,4817,2383,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000873.jpg 132,131,211,255,0 434,103,511,201,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000881.jpg 99,159,141,215,0 339,151,378,208,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000883.jpg 119,142,434,516,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000886.jpg 405,112,723,404,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000888.jpg 115,173,208,258,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000896.jpg 330,199,408,305,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000899.jpg 307,90,427,247,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000900.jpg 79,101,108,133,0 330,84,364,122,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000906.jpg 22,29,231,285,0 288,10,449,186,0 432,1,521,136,0 529,1,622,86,0 594,17,687,126,0 671,96,736,193,0 751,104,785,139,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000921.jpg 197,56,282,146,0 71,12,146,92,0 372,58,435,143,0 363,104,447,215,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000933.jpg 609,549,742,702,0 1003,567,1133,663,0 829,827,962,965,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000938.jpg 221,71,285,135,0 420,75,675,404,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000943.jpg 113,30,311,238,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000952.jpg 208,67,270,133,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000953.jpg 1,94,33,139,0 23,63,56,107,0 78,86,102,117,0 181,92,211,115,0 231,71,249,98,0 514,67,543,98,0 417,55,448,92,0 334,87,353,110,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000956.jpg 12,89,49,137,0 119,90,148,127,0 217,108,239,134,0 174,96,193,121,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000957.jpg 113,112,225,239,0 286,84,395,207,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000969.jpg 1,14,47,79,0 105,1,172,67,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000972.jpg 165,137,193,166,0 310,155,339,187,0 437,153,464,186,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000974.jpg 62,47,142,122,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000982.jpg 286,151,315,181,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000986.jpg 106,123,129,158,0 128,107,150,136,0 175,113,193,143,0 199,94,227,131,0 250,116,274,144,0 298,102,331,141,0 15,58,57,93,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001016.jpg 489,205,705,447,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001058.jpg 270,86,351,193,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001061.jpg 138,88,316,289,0 598,70,808,289,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001063.jpg 211,115,279,182,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001068.jpg 100,81,129,116,0 131,68,162,108,0 181,78,212,118,0 216,136,244,169,0 228,83,257,116,0 303,63,337,106,0 366,82,390,112,0 433,61,463,94,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001071.jpg 57,44,127,98,0 307,56,356,109,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001075.jpg 223,119,288,192,0 409,110,477,204,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001096.jpg 357,183,450,305,0 757,155,806,209,0 251,228,326,316,0 140,241,213,307,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001106.jpg 53,13,66,30,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001108.jpg 52,21,61,36,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001113.jpg 263,303,717,893,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001119.jpg 414,259,569,422,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001122.jpg 413,371,480,447,0 618,385,691,456,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001125.jpg 73,111,102,147,0 229,108,258,137,0 300,97,338,142,0 351,91,372,123,0 399,89,428,116,0 148,108,168,127,0 175,110,194,129,0 206,100,226,127,0 14,121,34,143,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001138.jpg 522,82,678,260,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001142.jpg 57,32,80,64,0 204,32,239,71,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001146.jpg 44,78,83,120,0 84,94,113,127,0 142,93,165,119,0 184,93,208,121,0 281,95,306,125,0 322,73,380,127,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001155.jpg 489,211,775,573,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001161.jpg 357,139,559,361,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001183.jpg 324,47,571,351,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001187.jpg 143,43,253,187,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001189.jpg 99,146,238,360,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001196.jpg 468,126,628,299,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001201.jpg 408,84,528,248,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001210.jpg 456,155,682,464,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001233.jpg 501,119,694,381,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001234.jpg 1,81,197,363,0 379,8,676,351,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001250.jpg 390,104,510,249,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001259.jpg 435,164,636,407,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001262.jpg 307,178,405,331,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001265.jpg 311,88,409,195,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001273.jpg 173,77,231,150,0 442,1,495,52,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001280.jpg 72,13,170,115,0 235,144,305,215,0 540,97,683,220,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001283.jpg 142,151,349,437,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001286.jpg 250,197,514,480,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001290.jpg 182,121,318,310,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001302.jpg 339,123,470,311,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001314.jpg 404,133,634,415,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001315.jpg 94,138,354,437,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001329.jpg 130,133,195,204,0 344,100,400,188,0 300,129,338,175,0 249,125,281,168,0 1,145,29,171,0 420,106,449,150,0 482,107,500,146,0 452,129,483,162,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001330.jpg 210,110,271,189,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001338.jpg 176,128,192,147,0 200,127,217,147,0 227,121,242,144,0 262,116,279,138,0 309,107,331,134,0 360,103,384,130,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001345.jpg 269,59,353,195,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001349.jpg 315,239,370,310,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001350.jpg 285,116,381,248,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001354.jpg 44,70,270,355,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001359.jpg 188,32,267,164,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001372.jpg 416,229,453,273,0 567,243,606,289,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001379.jpg 259,158,299,214,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001380.jpg 264,82,274,97,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001392.jpg 49,99,88,146,0 151,92,183,147,0 128,60,157,99,0 102,86,136,125,0 34,63,67,105,0 94,40,120,73,0 1,88,32,137,0 186,63,219,107,0 214,65,237,102,0 232,55,250,98,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001401.jpg 333,144,451,353,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001407.jpg 259,106,407,313,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001421.jpg 226,312,396,473,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001422.jpg 500,103,610,245,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001425.jpg 520,97,634,272,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001437.jpg 364,353,419,436,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001439.jpg 267,129,488,428,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001441.jpg 438,168,490,242,0 509,172,574,256,0 588,117,704,223,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001444.jpg 373,97,476,239,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001445.jpg 340,137,435,276,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001449.jpg 70,28,98,75,0 117,55,140,92,0 145,34,166,69,0 186,51,205,82,0 227,65,248,99,0 259,60,278,91,0 274,72,292,97,0 312,67,329,97,0 338,48,357,79,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001450.jpg 280,109,460,351,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001452.jpg 427,220,697,651,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001454.jpg 279,192,511,576,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001459.jpg 513,91,638,284,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001464.jpg 273,172,522,514,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001465.jpg 200,127,377,387,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001467.jpg 248,169,500,532,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001474.jpg 403,100,531,289,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001476.jpg 400,190,680,613,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001478.jpg 109,31,163,108,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001489.jpg 47,13,61,32,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001491.jpg 202,86,373,346,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001494.jpg 273,76,354,181,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001498.jpg 660,157,787,362,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001501.jpg 467,270,870,819,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001507.jpg 536,267,801,585,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001509.jpg 269,134,477,428,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001526.jpg 372,278,477,385,0 646,168,829,432,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001533.jpg 69,113,245,318,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001534.jpg 398,141,677,585,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001535.jpg 360,125,563,444,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001539.jpg 167,302,358,532,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001540.jpg 83,112,271,295,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001545.jpg 86,47,227,237,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001550.jpg 187,227,253,325,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001553.jpg 1,111,465,958,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001557.jpg 73,23,110,83,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001561.jpg 496,183,768,613,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001564.jpg 326,181,453,356,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001566.jpg 419,77,608,269,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001567.jpg 335,63,517,259,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001578.jpg 290,77,566,425,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001579.jpg 332,339,721,900,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001583.jpg 372,178,872,633,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001584.jpg 99,70,130,119,0 160,67,210,126,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001585.jpg 521,155,721,440,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001589.jpg 453,96,575,282,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001592.jpg 307,248,380,341,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001620.jpg 434,246,674,597,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001621.jpg 243,66,334,167,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001635.jpg 688,135,913,386,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001644.jpg 650,151,744,279,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001649.jpg 104,46,179,133,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001657.jpg 350,18,478,199,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001659.jpg 523,143,565,214,0 617,123,677,200,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001664.jpg 153,65,306,293,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000029.jpg 456,134,591,292,0 596,140,707,297,0 258,220,413,404,0 13,133,210,365,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000031.jpg 49,112,117,206,0 221,56,334,212,0 476,141,549,240,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000035.jpg 394,124,626,455,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000045.jpg 369,24,442,129,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000059.jpg 782,138,941,340,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000068.jpg 352,115,477,266,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000069.jpg 55,76,216,278,0 408,74,504,226,0 670,66,843,315,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000097.jpg 471,30,634,255,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000103.jpg 162,346,479,776,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000118.jpg 645,201,868,496,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000129.jpg 227,29,314,142,0 396,137,436,200,0 505,99,544,161,0 638,116,683,174,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000135.jpg 153,62,262,230,0 407,110,474,199,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000146.jpg 223,18,252,63,0 190,34,211,60,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000162.jpg 185,124,343,360,0 410,118,490,237,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000163.jpg 113,45,160,131,0 283,38,337,105,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000167.jpg 115,42,195,163,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000179.jpg 262,132,408,364,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000184.jpg 164,66,236,157,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000190.jpg 198,159,338,344,0 190,517,346,722,0 717,169,859,347,0 706,542,846,719,0 209,928,381,1124,0 252,1282,496,1486,0 698,1288,904,1476,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000191.jpg 114,245,198,339,0 350,2,460,103,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000196.jpg 324,54,419,176,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000211.jpg 1,108,39,164,0 103,121,144,185,0 194,89,241,160,0 280,104,337,168,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000212.jpg 285,123,437,321,0 942,67,1152,323,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000213.jpg 503,174,634,387,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000232.jpg 175,62,363,275,0 399,131,496,251,0 579,64,653,162,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000245.jpg 113,194,315,464,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000246.jpg 170,70,318,253,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000255.jpg 144,113,426,480,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000257.jpg 415,51,521,207,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000265.jpg 172,307,656,886,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000284.jpg 366,248,596,548,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000286.jpg 20,97,138,220,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000292.jpg 344,210,565,532,0 615,410,809,743,0 1048,295,1281,660,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000319.jpg 197,124,244,177,0 361,91,408,160,0 468,98,510,152,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000334.jpg 261,203,491,474,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000341.jpg 916,459,1393,1045,0 1902,563,2316,1081,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000395.jpg 695,73,961,497,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000415.jpg 191,203,388,405,0 655,181,865,389,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000419.jpg 456,160,526,269,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000429.jpg 296,108,337,178,0 494,103,542,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000433.jpg 226,1193,756,1623,0 1429,1423,1926,1881,0 2376,1143,3110,1716,0 3926,1496,4191,1793,0 4641,1227,5087,1646,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000439.jpg 128,115,201,204,0 265,94,358,178,0 393,109,489,181,0 544,83,636,167,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000441.jpg 356,266,798,612,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000462.jpg 367,194,503,313,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000477.jpg 116,66,196,121,0 248,85,326,151,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000487.jpg 596,219,862,444,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000488.jpg 281,274,563,446,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000501.jpg 427,304,638,408,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000509.jpg 164,73,405,424,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000510.jpg 272,300,443,433,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000511.jpg 33,592,477,974,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000515.jpg 337,220,627,470,0 787,208,1015,373,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000517.jpg 510,180,700,342,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000520.jpg 111,122,169,204,0 179,158,226,224,0 2,167,65,215,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000522.jpg 391,188,635,432,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000526.jpg 28,283,139,374,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000529.jpg 324,1088,906,1613,0 952,792,1634,1249,0 2152,853,2777,1449,0 2774,592,3402,1253,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000546.jpg 297,106,433,295,0 523,117,690,236,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000547.jpg 152,223,489,485,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000552.jpg 833,443,1171,707,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000553.jpg 87,84,169,141,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000570.jpg 74,68,120,109,0 199,66,235,100,0 203,119,251,183,0 288,95,353,172,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000573.jpg 304,189,473,316,0 611,100,766,236,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000575.jpg 139,207,207,270,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000578.jpg 99,49,140,82,0 149,21,177,46,0 360,42,386,62,0 459,40,482,67,0 521,34,559,64,0 55,18,79,47,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000581.jpg 379,374,617,569,0 961,431,1159,655,0 25,275,307,609,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000585.jpg 839,1080,1712,1553,0 2573,965,3281,1584,0 3712,934,4389,1530,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000602.jpg 157,100,225,166,0 310,116,350,162,0 107,71,144,103,0 45,62,94,100,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000607.jpg 281,204,454,341,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000609.jpg 301,50,385,117,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000613.jpg 73,304,364,518,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000617.jpg 69,107,235,245,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000628.jpg 448,1,607,137,0 310,127,425,226,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000638.jpg 206,118,271,168,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000644.jpg 149,60,197,95,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000661.jpg 564,351,880,566,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000666.jpg 548,249,624,312,0 725,228,792,278,0 836,245,917,299,0 326,234,409,284,0 102,169,263,300,0 975,323,1032,387,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000681.jpg 72,134,188,203,0 262,131,395,208,0 444,232,569,306,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000684.jpg 195,182,269,231,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000686.jpg 253,137,411,249,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000688.jpg 237,55,328,115,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000712.jpg 418,183,487,219,0 325,186,408,242,0 171,130,228,170,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000716.jpg 533,208,691,332,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000738.jpg 1519,335,1755,596,0 837,473,944,592,0 454,518,553,621,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000739.jpg 394,207,451,276,0 496,141,543,200,0 716,107,777,157,0 360,163,411,206,0 289,150,331,189,0 234,87,292,164,0 76,87,133,141,0 138,100,165,138,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000749.jpg 117,84,256,187,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000760.jpg 282,82,377,168,0 444,90,493,149,0 517,108,569,167,0 681,105,710,145,0 208,115,252,164,0 167,118,211,165,0 14,129,70,171,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000783.jpg 316,66,436,168,0 507,72,640,156,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000786.jpg 214,90,267,127,0 71,29,122,66,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000797.jpg 227,290,745,644,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000822.jpg 380,127,462,193,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000826.jpg 499,433,683,548,0 674,353,805,550,0 177,327,329,477,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000835.jpg 571,160,770,306,0 954,337,1145,473,0 110,244,348,375,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000840.jpg 115,125,278,227,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000849.jpg 449,98,557,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000861.jpg 36,108,130,176,0 168,163,251,229,0 306,135,372,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000864.jpg 461,182,608,342,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000876.jpg 419,161,456,193,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000887.jpg 701,207,754,248,0 700,102,740,130,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000895.jpg 208,75,254,113,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000896.jpg 354,51,443,132,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000919.jpg 153,81,264,192,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000931.jpg 481,263,561,311,0 891,137,969,226,0 374,282,415,343,0 263,341,314,384,0 646,286,737,347,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000936.jpg 252,62,306,105,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000943.jpg 801,140,840,183,0 564,730,598,768,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000947.jpg 229,127,366,233,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000952.jpg 129,79,175,115,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000976.jpg 597,475,758,606,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000982.jpg 219,124,294,195,0 518,87,589,180,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_000991.jpg 460,70,562,162,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001010.jpg 1581,1020,1802,1271,0 610,673,748,822,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001021.jpg 303,152,701,459,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001040.jpg 314,58,388,130,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001046.jpg 133,91,218,167,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001059.jpg 341,72,405,165,0 104,102,185,199,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001067.jpg 353,249,571,534,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001068.jpg 463,142,552,199,0 681,171,789,265,0 222,121,363,255,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001069.jpg 345,123,412,194,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001071.jpg 169,125,216,214,0 474,79,532,172,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001084.jpg 49,75,120,165,0 260,110,325,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001088.jpg 3411,744,3680,987,0 3761,494,4045,744,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001095.jpg 277,159,312,199,0 193,124,236,167,0 122,147,169,194,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001109.jpg 240,151,315,258,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001110.jpg 534,82,659,326,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001112.jpg 520,421,646,565,0 811,379,911,526,0 254,371,340,517,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001122.jpg 211,215,289,279,0 373,249,452,304,0 96,264,181,319,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001154.jpg 303,57,330,91,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001156.jpg 107,180,273,301,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001172.jpg 283,82,378,175,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001173.jpg 154,117,250,207,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001175.jpg 842,731,1042,907,0 1252,755,1454,943,0 1964,630,2221,914,0 147,812,414,1026,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001182.jpg 424,213,511,311,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001185.jpg 351,111,426,189,0 152,84,217,167,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001190.jpg 964,225,1094,396,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001193.jpg 458,90,552,162,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001195.jpg 281,64,390,156,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001198.jpg 235,253,509,461,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001199.jpg 987,494,1294,847,0 313,454,516,625,0 1904,555,2020,654,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001209.jpg 332,143,498,258,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001225.jpg 170,94,236,164,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001226.jpg 245,113,364,209,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001232.jpg 393,180,493,260,0 239,228,318,288,0 95,207,185,283,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001234.jpg 314,325,413,427,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001238.jpg 337,278,587,458,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001242.jpg 335,268,552,446,0 143,125,231,205,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001256.jpg 1074,530,1203,649,0 725,463,882,594,0 474,566,656,695,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001259.jpg 189,39,314,191,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001267.jpg 444,137,550,234,0 650,167,780,263,0 277,170,350,255,0 21,188,141,285,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001269.jpg 188,126,256,205,0 268,76,323,146,0 426,78,503,122,0 515,74,561,119,0 587,23,640,63,0 584,175,646,230,0 431,175,501,245,0 32,18,80,61,0 193,22,246,63,0 249,18,293,57,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001279.jpg 206,64,251,107,0 327,120,374,150,0 121,89,175,127,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001283.jpg 216,79,285,184,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001290.jpg 311,35,395,107,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001301.jpg 217,78,273,131,0 135,37,185,74,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001309.jpg 1351,944,2044,1610,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001314.jpg 669,804,1076,1146,0 2164,720,2476,967,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001321.jpg 418,123,496,301,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001330.jpg 224,101,421,278,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001351.jpg 255,88,447,240,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001361.jpg 426,178,479,216,0 595,210,676,271,0 287,212,361,267,0 160,151,236,211,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001363.jpg 907,257,1131,595,0 485,194,781,648,0 1187,585,1370,887,0 1448,509,1696,778,0 1824,474,2000,647,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001375.jpg 840,174,981,425,0 575,132,793,343,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001379.jpg 165,115,248,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001384.jpg 125,155,361,340,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001385.jpg 245,216,389,332,0 565,205,722,318,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001389.jpg 227,230,259,259,0 72,212,108,242,0 439,230,470,257,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001392.jpg 203,96,244,182,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001398.jpg 428,250,609,417,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001422.jpg 293,127,456,274,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001431.jpg 555,203,622,278,0 531,164,575,204,0 481,112,515,138,0 462,105,490,136,0 354,175,393,205,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001432.jpg 754,201,1012,411,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001434.jpg 158,174,303,304,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001435.jpg 837,404,1040,542,0 531,485,707,604,0 306,588,416,728,0 1188,351,1336,513,0 1344,373,1430,490,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001446.jpg 451,42,564,136,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001448.jpg 622,143,764,261,0 436,215,569,325,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001462.jpg 755,331,994,603,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001464.jpg 559,458,653,616,0 1082,581,1141,699,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001471.jpg 372,155,596,396,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001472.jpg 1414,585,1905,932,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001497.jpg 856,799,1303,1214,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001528.jpg 279,114,537,405,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001531.jpg 382,179,633,488,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001541.jpg 197,26,387,179,0 606,29,871,284,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001542.jpg 435,62,561,299,0 580,147,719,356,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001548.jpg 451,100,570,200,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001551.jpg 85,30,127,72,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001554.jpg 32,168,57,197,0 74,166,98,194,0 111,172,134,199,0 169,166,191,193,0 207,151,232,181,0 268,164,289,191,0 301,241,330,268,0 312,153,332,180,0 334,148,352,171,0 377,148,399,180,0 436,149,456,171,0 468,234,494,267,0 509,158,529,184,0 527,140,555,170,0 575,149,601,184,0 627,148,655,175,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001555.jpg 371,100,480,223,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001562.jpg 131,60,219,189,0 296,97,358,198,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001566.jpg 1223,134,1419,378,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001583.jpg 351,202,564,433,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001585.jpg 154,36,215,116,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001587.jpg 54,249,100,291,0 240,256,275,300,0 379,266,420,306,0 516,253,551,300,0 617,236,657,287,0 694,244,737,297,0 798,236,841,275,0 979,222,1007,271,0 1063,212,1129,278,0 1166,222,1209,266,0 1222,206,1262,263,0 1327,227,1389,303,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001598.jpg 39,77,139,184,0 218,135,273,186,0 295,100,353,168,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001612.jpg 239,66,375,197,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001616.jpg 184,41,270,176,0 502,19,577,148,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001623.jpg 27,33,39,53,0 128,28,141,43,0 166,20,183,38,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001626.jpg 363,335,489,456,0 483,48,601,191,0 755,126,848,228,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001629.jpg 115,114,264,262,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001637.jpg 187,28,328,178,0 477,30,634,219,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001639.jpg 150,75,245,184,0 383,46,472,164,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001644.jpg 376,111,731,480,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001646.jpg 331,32,446,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001661.jpg 552,291,775,597,0 1283,247,1575,518,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001663.jpg 1077,1119,1767,1950,0 1609,1145,2309,2019,0 240,1966,688,2740,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001667.jpg 401,458,599,696,0 611,340,743,496,0 1053,410,1153,520,0 1509,308,1697,534,0 797,404,833,446,0 949,420,989,458,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001676.jpg 222,127,317,241,0 466,98,560,198,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001688.jpg 248,228,333,347,0 347,260,420,357,0 446,270,537,382,0 543,234,619,337,0 605,322,695,419,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001697.jpg 130,48,307,224,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001704.jpg 414,212,576,358,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001714.jpg 457,145,569,252,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001715.jpg 441,283,722,583,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001718.jpg 43,179,279,473,0 348,244,600,546,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001726.jpg 265,55,496,252,0 721,56,865,215,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001742.jpg 21,37,112,179,0 254,56,304,121,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001754.jpg 130,64,214,147,0 412,74,491,153,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001756.jpg 249,79,316,158,0 410,85,491,174,0 461,79,534,180,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001762.jpg 82,159,151,263,0 199,196,282,304,0 327,225,397,321,0 459,180,542,271,0 521,165,683,353,0 693,165,767,260,0 827,221,911,329,0 953,218,1033,319,0 1121,225,1200,321,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001772.jpg 139,83,233,181,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001783.jpg 563,82,674,195,0 899,201,1006,329,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001789.jpg 576,169,858,520,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001791.jpg 76,113,240,355,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001812.jpg 445,183,900,775,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001817.jpg 323,135,518,332,0 654,131,897,329,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001829.jpg 479,1,697,190,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001832.jpg 333,155,459,303,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001840.jpg 69,30,101,70,0 232,110,316,183,0 510,63,581,108,0 677,56,736,126,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001863.jpg 614,332,715,437,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001869.jpg 919,78,1184,405,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001892.jpg 98,510,1048,1652,0 1490,710,2210,1613,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001893.jpg 362,324,574,543,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001913.jpg 733,41,820,153,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001917.jpg 381,269,535,448,0 6,237,96,405,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001935.jpg 252,154,509,428,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001948.jpg 246,114,306,183,0 395,231,448,269,0 515,187,586,251,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001952.jpg 96,113,139,147,0 160,75,210,115,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001958.jpg 226,271,520,559,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001972.jpg 265,111,481,363,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001976.jpg 262,74,495,270,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_001984.jpg 104,57,168,133,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002003.jpg 2103,947,3183,2140,0 3883,1047,4970,2353,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002004.jpg 206,79,573,512,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002011.jpg 439,203,813,534,0 936,336,1227,647,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002021.jpg 536,388,675,550,0 1256,400,1381,573,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002031.jpg 223,159,311,250,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002042.jpg 1018,243,1330,583,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002048.jpg 112,34,246,193,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002049.jpg 414,134,497,232,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002050.jpg 710,245,931,512,0 1270,218,1425,385,0 1541,158,1664,266,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002053.jpg 166,87,226,160,0 216,140,255,190,0 293,118,347,161,0 414,107,464,166,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002062.jpg 106,80,166,171,0 252,119,315,195,0 449,187,498,229,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002072.jpg 42,53,97,113,0 145,47,203,123,0 243,86,301,152,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002081.jpg 116,98,173,166,0 212,74,267,126,0 306,52,376,113,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002093.jpg 169,59,217,110,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002103.jpg 304,92,355,143,0 434,44,487,102,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002105.jpg 429,513,644,798,0 1103,449,1321,816,0 1825,494,2085,794,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002112.jpg 255,269,404,422,0 682,45,767,135,0 815,62,896,155,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002147.jpg 234,49,290,122,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002152.jpg 35,104,120,203,0 285,145,364,236,0 343,189,421,277,0 407,134,490,242,0 493,174,568,242,0 645,157,719,236,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002155.jpg 245,118,350,250,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002157.jpg 385,187,617,465,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002159.jpg 300,190,406,317,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002160.jpg 609,241,782,443,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002161.jpg 147,97,229,207,0 451,131,496,224,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002165.jpg 522,142,643,253,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002167.jpg 544,128,664,280,0 772,154,909,286,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002170.jpg 112,119,286,303,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002173.jpg 210,350,658,899,0 697,300,1108,838,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002180.jpg 1814,680,2131,996,0 2475,758,2742,1124,0 3170,430,3448,802,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002196.jpg 714,90,795,171,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002212.jpg 379,66,495,241,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002214.jpg 218,99,320,224,0 644,142,856,374,0 162,600,341,838,0 773,639,905,808,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002222.jpg 553,260,757,447,0 763,153,978,385,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002226.jpg 1047,504,1333,881,0 1704,795,2033,1128,0 2409,452,2723,828,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002227.jpg 64,75,101,122,0 149,73,191,122,0 273,62,321,109,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002237.jpg 182,119,366,339,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002243.jpg 150,71,244,172,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002256.jpg 132,345,387,519,0 16,360,132,498,0 382,455,490,558,0 490,431,594,520,0 685,426,839,581,0 870,395,980,539,0 1073,432,1166,564,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002268.jpg 1140,809,1403,1157,0 1511,1398,1859,1757,0 1844,835,2137,1157,0 2533,817,2811,1128,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002270.jpg 866,44,1115,287,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002299.jpg 197,99,356,283,0 353,223,511,371,0 637,175,789,335,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002311.jpg 110,115,494,526,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002325.jpg 314,248,377,348,0 379,217,452,289,0 336,153,409,236,0 515,168,575,236,0 533,233,604,329,0 458,278,541,369,0 407,351,473,426,0 575,376,653,473,0 654,423,700,517,0 664,291,700,371,0 637,187,700,269,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002340.jpg 502,141,640,307,0 711,125,856,279,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002343.jpg 165,137,333,317,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002344.jpg 336,286,748,711,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002351.jpg 429,300,688,583,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002369.jpg 130,38,176,93,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002383.jpg 1027,207,1390,643,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002392.jpg 83,67,204,182,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part2_002394.jpg 23,61,110,134,0 139,95,177,139,0 242,106,269,135,0 316,95,345,129,0 368,101,397,143,0 423,96,498,169,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00002.jpg 1490,452,1548,499,1 1082,351,1173,436,1 403,368,510,447,1 856,425,913,474,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00006.jpg 1143,278,1503,601,1 652,432,770,566,1 342,384,479,526,1 595,367,630,394,1 783,316,805,339,1 250,250,281,278,1 334,246,368,275,1 1878,394,1929,447,1 1688,402,1737,449,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00010.jpg 210,490,477,846,1 464,366,619,615,1 755,684,1035,893,1 1248,502,1473,724,1 1701,479,1928,697,1 409,115,569,258,1 681,161,827,333,1 732,42,853,155,1 981,219,1196,447,1 1355,250,1548,453,1 1576,257,1735,465,1 1147,115,1237,257,1 1549,47,1609,120,1 1361,7,1439,83,1 1277,59,1378,147,1 926,1,1005,76,1 1051,1,1119,65,1 1991,215,2095,333,1 2063,91,2135,191,1 1815,218,1940,319,1 1893,144,1956,202,1 1737,192,1803,279,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00014.jpg 2084,364,2129,421,1 1940,364,1990,413,1 1771,392,1826,436,1 1612,379,1657,431,1 1560,376,1593,417,1 1466,395,1506,436,1 1414,382,1445,418,1 1336,371,1379,420,1 1288,398,1320,431,1 1148,387,1190,429,1 966,406,1004,450,1 1018,373,1057,409,1 339,422,385,459,1 454,421,497,460,1 520,424,549,458,1 554,422,594,467,1 665,413,711,455,1 603,393,643,427,1 427,416,454,452,1 777,401,812,433,1 818,411,863,453,1 894,394,927,427,1 933,391,964,424,1 866,381,892,404,1 1502,367,1532,404,1 1660,397,1700,430,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00016.jpg 1044,284,1284,559,1 420,269,567,406,1 572,318,649,395,1 206,277,277,356,1 234,208,318,271,1 824,274,872,316,1 749,270,810,317,1 1824,359,1966,505,1 1975,331,2090,475,1 1316,243,1394,322,1 1433,276,1485,332,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00021.jpg 1198,298,1280,376,1 1039,476,1110,544,1 317,312,381,372,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00023.jpg 1410,414,1544,557,1 1159,428,1201,475,1 1116,428,1149,459,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00028.jpg 677,251,833,394,1 1209,326,1361,462,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00033.jpg 1495,135,1719,378,1 1348,315,1549,486,1 1124,285,1284,434,1 812,438,926,542,1 600,335,788,512,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00037.jpg 1211,157,1632,505,1 775,387,1153,711,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00039.jpg 727,362,812,438,1 935,309,1044,387,1 1205,274,1321,365,1 1505,169,1609,275,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00049.jpg 973,290,1244,539,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00060.jpg 1864,282,2071,433,1 1334,359,1410,434,1 1258,390,1299,428,1 1008,310,1110,403,1 704,371,784,481,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00061.jpg 543,274,727,449,1 925,415,995,493,1 1825,369,1995,485,1 1500,427,1583,497,1 1420,438,1481,500,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00067.jpg 1472,267,1760,506,1 775,393,987,568,1 501,400,679,563,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00070.jpg 787,241,1028,476,1 1302,272,1504,461,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00078.jpg 520,323,657,452,1 781,393,873,488,1 1035,392,1115,470,1 1154,410,1211,470,1 978,443,1006,473,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00079.jpg 519,316,652,444,1 775,394,865,489,1 1033,392,1111,470,1 1154,413,1205,468,1 976,446,1001,471,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00081.jpg 1894,199,2127,434,1 1509,239,1692,421,1 1422,289,1507,384,1 1299,363,1375,444,1 585,253,705,358,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00085.jpg 2057,518,2108,578,1 1987,514,2029,570,1 1912,512,1965,562,1 1838,503,1890,556,1 1767,516,1810,563,1 1707,509,1756,557,1 1661,510,1704,558,1 1591,525,1634,566,1 1566,547,1596,592,1 1496,512,1541,560,1 1451,511,1495,557,1 1403,525,1446,563,1 1363,501,1402,543,1 1253,549,1283,588,1 1042,541,1070,578,1 284,477,348,530,0 425,462,464,530,1 1222,527,1251,569,1 1016,537,1043,577,1 1079,532,1102,576,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00088.jpg 1885,241,1972,341,1 778,306,865,388,1 698,342,749,396,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00099.jpg 713,249,905,453,1 1119,347,1204,435,1 1638,275,1688,329,1 1980,269,2017,316,1 1388,285,1447,339,1 1213,291,1245,326,1 258,186,361,299,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00104.jpg 1995,283,2070,353,1 1805,291,1858,357,1 1534,275,1590,335,1 1441,285,1493,343,1 1320,262,1374,318,1 1108,275,1155,318,1 921,287,958,327,1 860,299,894,333,1 740,290,772,328,1 693,291,719,325,1 495,313,523,347,1 1015,298,1045,328,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00105.jpg 1376,385,1674,692,1 1022,225,1266,469,1 731,253,838,393,1 554,187,696,309,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00109.jpg 961,310,1239,575,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00113.jpg 699,211,809,310,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00119.jpg 1289,372,1399,558,1 1431,372,1519,518,1 1776,398,1860,483,1 510,340,730,599,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00127.jpg 1191,332,1307,439,1 1116,378,1176,446,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00134.jpg 1695,260,1808,388,1 785,218,901,345,1 535,277,566,319,1 1280,317,1336,365,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00140.jpg 359,373,456,468,1 824,390,882,462,1 1253,412,1307,478,1 1594,435,1635,482,1 1805,366,1852,423,1 2064,352,2105,411,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00141.jpg 413,547,468,607,1 658,521,698,574,1 1954,461,1995,520,1 1598,475,1632,517,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00142.jpg 384,618,477,706,1 682,619,738,685,1 759,600,803,651,1 929,600,977,653,1 1040,593,1077,639,1 2074,474,2114,519,1 1508,559,1545,603,1 1314,563,1349,602,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00146.jpg 1002,272,1318,595,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00151.jpg 1655,474,1769,571,1 1853,360,1925,411,1 1766,326,1822,372,1 1624,330,1674,372,1 1526,437,1601,507,1 1379,370,1453,439,1 1484,302,1526,336,1 1576,307,1612,339,1 1260,365,1326,430,1 1138,320,1171,360,1 844,277,877,315,1 511,311,558,357,1 413,323,475,386,1 279,372,367,459,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00153.jpg 1283,382,1535,563,1 965,242,1120,411,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00154.jpg 1794,265,1829,299,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00164.jpg 1699,326,1844,461,1 866,340,984,480,1 591,296,726,445,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00166.jpg 702,330,788,407,1 381,410,434,468,1 1059,380,1119,437,1 989,360,1042,448,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00167.jpg 1200,275,1391,486,1 780,214,959,390,1 1031,312,1092,415,1 430,282,576,412,1 219,262,294,345,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00169.jpg 529,327,716,496,1 884,462,994,568,1 1221,469,1396,615,1 1611,321,1867,568,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00174.jpg 1648,509,1698,556,1 884,522,958,598,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00181.jpg 1204,705,1233,735,1 1059,705,1082,727,1 1083,728,1105,752,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00183.jpg 1571,342,1748,516,0 1010,311,1191,485,1 639,240,885,506,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00190.jpg 907,382,1351,774,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00191.jpg 1149,187,1253,296,1 698,199,839,366,1 819,159,901,280,1 300,131,465,280,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00193.jpg 1057,294,1404,626,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00198.jpg 1130,215,1526,582,1 908,326,1046,466,1 1817,315,1993,455,1 731,312,816,405,1 447,301,553,399,1 1546,266,1625,370,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00220.jpg 1792,506,1895,609,1 1625,319,1689,397,1 1519,295,1615,378,1 998,278,1093,352,1 765,299,836,388,1 447,244,510,335,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00224.jpg 1294,256,1460,426,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00230.jpg 1563,399,1759,565,1 1314,262,1378,323,1 963,310,1084,410,1 589,285,675,366,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00233.jpg 1638,548,1698,609,1 1564,488,1590,521,1 1257,539,1307,581,1 1009,528,1054,567,1 1246,496,1275,525,1 1448,502,1482,528,1 1816,476,1845,505,1 1780,501,1813,532,1 1627,474,1650,502,1 781,492,809,518,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00239.jpg 1831,410,1895,473,1 1627,412,1694,470,1 1501,421,1556,479,1 1406,422,1462,478,1 1318,419,1375,479,1 1255,376,1307,432,1 1055,392,1113,445,1 877,395,944,452,1 735,400,794,463,1 616,391,681,448,1 467,384,542,456,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00240.jpg 408,568,547,666,1 927,478,1021,567,1 539,455,593,511,1 741,378,809,439,1 324,373,385,425,1 212,373,261,420,1 1195,465,1260,520,1 1510,456,1577,509,1 999,352,1057,406,1 1749,385,1798,427,1 1846,395,1888,427,1 1968,361,2001,397,1 1922,295,1949,332,1 1851,310,1881,335,1 1684,365,1718,398,1 1634,364,1665,394,1 1550,369,1582,403,1 1386,350,1417,379,1 1171,367,1202,398,1 799,334,828,363,1 911,339,934,364,1 956,272,978,293,1 1075,347,1105,376,1 1178,287,1201,308,1 707,330,731,355,1 1492,309,1520,338,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00246.jpg 1374,381,1713,642,1 1044,240,1276,444,1 587,188,707,307,1 708,242,839,372,1 929,50,1059,167,1 1131,1,1285,86,1 832,1,921,89,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00254.jpg 294,195,418,336,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00255.jpg 1800,295,1868,382,1 1670,295,1728,362,1 576,432,648,510,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00265.jpg 478,399,564,540,1 688,392,742,478,1 1238,414,1298,478,1 1122,467,1171,518,1 990,434,1062,499,1 910,451,963,507,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00278.jpg 1578,718,1657,815,1 1707,635,1792,710,1 1363,482,1445,570,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00283.jpg 1720,303,1884,449,1 1064,358,1177,477,1 571,264,758,450,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00294.jpg 1933,367,2045,477,1 1773,411,1880,491,1 1639,383,1751,481,1 1541,374,1619,457,1 1420,318,1516,417,1 1263,351,1347,429,1 1136,370,1212,441,1 989,346,1071,432,1 865,323,947,384,1 782,362,845,426,1 747,369,776,408,1 655,400,713,453,1 639,354,669,392,1 540,405,601,461,1 434,424,503,476,1 223,354,260,396,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00310.jpg 1263,519,1330,570,1 970,503,1041,565,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/part3_20200213_ljx_00313.jpg 1528,357,1751,518,1 869,366,1062,588,1 478,159,700,424,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00014.jpg 513,173,544,198,0 640,138,670,167,0 799,121,822,145,0 749,102,771,133,0 408,161,433,187,0 366,169,389,193,0 477,133,507,156,0 506,132,544,163,0 419,123,440,148,0 428,107,448,127,0 377,112,399,131,0 315,96,333,118,0 1021,61,1035,77,0 604,77,621,94,0 484,112,499,132,0 510,111,534,127,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00023.jpg 314,181,339,209,0 1019,260,1049,300,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00042.jpg 798,235,852,294,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00045.jpg 119,189,152,235,0 164,178,197,213,0 564,152,589,179,0 603,136,623,161,0 680,134,695,160,0 642,116,666,137,0 746,144,765,172,0 797,149,815,179,0 845,175,865,203,0 914,195,929,229,0 863,157,887,184,0 493,110,510,133,0 443,114,457,132,0 417,138,434,166,0 361,138,387,160,0 746,105,768,125,0 695,86,715,99,0 707,105,721,122,0 577,61,588,75,0 524,83,539,95,0 531,103,547,122,0 506,100,523,121,0 475,96,492,114,0 459,70,477,88,0 435,93,451,106,0 412,81,430,97,0 388,104,412,121,0 612,88,628,103,0 615,72,630,88,0 676,61,687,72,0 850,83,861,95,0 842,126,857,144,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00054.jpg 18,138,27,149,0 449,114,467,134,0 501,116,517,136,0 525,122,544,141,0 592,165,610,188,0 648,151,667,175,0 593,109,613,132,0 563,108,581,129,0 530,99,544,117,0 549,88,563,104,0 534,72,548,88,0 538,56,552,75,0 558,68,577,82,0 605,72,617,89,0 643,83,654,95,0 658,83,673,103,0 630,27,643,38,0 583,36,597,48,0 567,52,580,62,0 622,59,634,73,0 481,85,495,98,0 471,64,486,81,0 443,95,464,113,0 276,107,294,119,0 340,84,351,100,0 317,88,329,103,0 374,84,385,94,0 358,74,367,84,0 474,52,486,62,0 449,55,466,67,0 434,49,443,62,0 355,121,373,141,0 388,123,404,142,0 223,103,233,113,0 306,68,317,83,0 279,67,293,81,0 299,47,305,59,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00055.jpg 519,158,537,183,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartA_00060.jpg 372,104,388,127,0 706,67,725,88,0 778,70,796,92,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00014.jpg 787,441,839,507,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00029.jpg 74,370,208,513,0 376,386,472,492,0 544,147,645,279,0 667,332,750,450,0 850,416,983,541,0 1036,406,1156,558,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00035.jpg 374,225,398,252,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00038.jpg 226,83,471,361,0 519,215,637,337,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00039.jpg 1029,294,1070,348,0 470,423,512,474,0 676,486,737,560,0 1226,562,1280,642,0 1447,453,1469,492,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00043.jpg 409,471,638,721,0 1,372,125,595,0 279,301,378,438,0 26,146,84,219,0 227,204,297,302,0 544,239,625,322,0 799,188,893,314,0 918,166,985,261,0 657,173,728,264,0 353,172,417,250,0 493,148,554,227,0 623,115,671,174,0 668,284,784,422,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00044.jpg 405,268,570,463,0 344,46,417,145,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00046.jpg 76,345,255,550,0 130,213,213,310,0 1023,201,1110,312,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00051.jpg 503,139,528,174,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00054.jpg 2183,1403,2253,1480,0 2949,1328,3006,1410,0 1481,1324,1507,1356,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/PartB_00061.jpg 235,549,372,685,0 416,458,593,599,0 48,163,120,260,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133021_com.qiyi.video.jpg 920,156,1263,496,1 1647,187,1917,513,1 303,120,514,273,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133042_com.qiyi.video.jpg 1030,118,1341,509,1 1627,59,1806,335,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133213_com.qiyi.video.jpg 653,143,909,479,1 1615,155,1818,483,1 1992,88,2131,287,1 1245,90,1400,307,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133250_com.qiyi.video.jpg 1324,321,1431,457,1 1749,312,1892,487,1 1058,338,1153,462,1 808,331,905,459,1 653,296,744,418,1 510,295,602,403,1 361,292,439,392,1 1019,306,1066,371,1 1122,284,1183,370,1 1514,314,1590,400,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133405_com.qiyi.video.jpg 1019,171,1342,601,1 283,96,494,326,1 916,85,1050,332,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133418_com.qiyi.video.jpg 494,245,608,396,1 353,623,449,718,1 594,635,695,717,1 1153,148,1239,232,1 1325,196,1431,345,1 1489,143,1577,235,1 1314,657,1413,815,1 1527,604,1603,693,1 1713,648,1800,793,1 1803,588,1860,662,1 1977,581,2031,659,1 2055,626,2133,788,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133447_com.qiyi.video.jpg 1075,245,1169,395,1 1297,431,1444,604,1 761,295,838,378,1 1185,257,1241,328,1 1342,215,1399,285,1 1863,234,1975,320,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_133911_com.qiyi.video.jpg 549,487,702,642,1 262,652,415,806,1 945,549,1057,698,1 1050,540,1158,671,1 1227,507,1336,653,1 1327,533,1406,658,1 1514,543,1631,676,1 1619,546,1715,653,1 1928,496,2041,646,1 2044,545,2130,649,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134001_com.qiyi.video.jpg 902,267,1064,453,1 1070,245,1247,448,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134120_com.qiyi.video.jpg 752,126,966,385,1 1133,176,1389,460,1 1006,262,1111,399,1 442,226,602,387,1 288,256,370,351,1 211,226,292,356,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134130_com.qiyi.video.jpg 1383,109,1614,457,1 1730,329,1849,495,1 1894,351,1981,468,1 1989,228,2131,490,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134137_com.qiyi.video.jpg 924,207,1133,456,1 1563,181,1792,454,1 1935,229,2080,437,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134155_com.qiyi.video.jpg 1022,298,1133,407,1 542,259,666,398,1 1663,329,1741,434,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134159_com.qiyi.video.jpg 1014,213,1156,374,1 1283,268,1408,404,1 1456,312,1581,451,1 1880,292,2013,451,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134216_com.qiyi.video.jpg 1241,323,1349,438,1 1089,342,1169,437,1 989,318,1052,412,1 1214,373,1266,446,1 1702,338,1767,420,1 1785,307,1852,404,1 1820,367,1901,465,1 1888,312,1955,407,1 2031,323,2144,495,1 1989,363,2067,504,1 789,345,852,426,1 703,325,772,415,1 458,320,567,443,1 305,332,417,470,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134220_com.qiyi.video.jpg 1114,223,1350,498,1 1649,165,1910,451,1 389,185,650,463,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134507_com.qiyi.video.jpg 1039,153,1288,479,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134705_com.qiyi.video.jpg 777,204,910,353,1 1403,56,1624,318,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134822_com.qiyi.video.jpg 1527,212,1778,507,1 877,270,1086,512,1 602,343,780,573,1 210,312,415,657,1 1405,456,1514,592,0
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_134930_com.qiyi.video.jpg 1185,96,1569,593,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135128_com.qiyi.video.jpg 1085,65,1528,642,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135134_com.qiyi.video.jpg 805,73,1205,662,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135500_com.qiyi.video.jpg 1175,112,1424,429,1 1845,193,2102,518,1 892,157,1080,398,1 425,54,620,323,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135505_com.qiyi.video.jpg 970,201,1072,329,1 656,232,839,401,1 1306,273,1412,398,1 1417,228,1535,418,1 1633,131,1841,457,1 1588,281,1638,342,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135519_com.qiyi.video.jpg 1142,254,1302,403,1 1695,304,1831,440,1 933,231,1003,332,1 1003,253,1072,335,1 838,254,944,354,1 716,229,813,367,1 806,274,858,356,1 369,215,513,374,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135625_com.qiyi.video.jpg 392,349,558,513,1 729,326,832,414,1 838,301,900,381,1 1190,287,1246,356,1 1506,293,1583,370,1 1695,299,1808,401,1 1905,363,2052,496,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135910_com.qiyi.video.jpg 724,462,860,596,1 1020,496,1091,554,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135932_com.qiyi.video.jpg 1430,71,1681,387,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_135951_com.qiyi.video.jpg 685,317,899,532,1 1464,42,1733,387,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140032_com.qiyi.video.jpg 1741,676,1794,731,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140417_com.qiyi.video.jpg 1168,126,1499,557,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140434_com.qiyi.video.jpg 1516,410,1608,538,1 1416,507,1488,595,1 1656,553,1791,712,1 499,567,624,710,1 594,543,688,638,1 721,513,785,597,1 647,390,728,460,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140442_com.qiyi.video.jpg 1275,132,1444,338,1 1474,126,1702,459,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140718_com.qiyi.video.jpg 853,109,1241,565,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140827_com.qiyi.video.jpg 841,188,1131,606,1 1455,112,1777,557,1
+E:\sth_21_mask_det\yolov4-tiny-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Screenshot_20200212_140838_com.qiyi.video.jpg 1033,81,1506,668,1

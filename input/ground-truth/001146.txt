@@ -1,0 +1,6 @@
+nomask 44 78 83 120
+nomask 84 94 113 127
+nomask 142 93 165 119
+nomask 184 93 208 121
+nomask 281 95 306 125
+nomask 322 73 380 127
