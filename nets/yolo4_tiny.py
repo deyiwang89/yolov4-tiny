@@ -54,7 +54,7 @@ def yolo_head(filters_list, in_filters):
 #   yolo_body
 #---------------------------------------------------#
 class YoloBody(nn.Module):
-    def __init__(self, num_anchors, num_classes):
+    def __init__(self, num_classes, num_anchors=3):
         super(YoloBody, self).__init__()
         #  backbone
         self.backbone = darknet53_tiny(None)
